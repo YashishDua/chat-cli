@@ -2,4 +2,5 @@
 
 const argv = require('yargs')
   .commandDir('cmds')
+  .help()
   .argv

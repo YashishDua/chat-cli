@@ -13,6 +13,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
+    "request": "^2.88.0",
     "yargs": "^10.0.3"
   }
 }
